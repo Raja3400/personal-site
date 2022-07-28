@@ -69,11 +69,13 @@ a:hover
     position: absolute;
     right: 10%;
     bottom: 10%;
+    width: 15%;
 }
 .superman{
     position: absolute;
    top: 10%;
-    left: 10%
+    left: 10%;
+    width: 15%
 }
 .s1
 {
@@ -139,4 +141,8 @@ a:hover
 {
     margin: 40px;
    
+}
+.gru
+{
+    width: 50%;
 }
